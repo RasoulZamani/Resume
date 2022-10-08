@@ -1,8 +1,7 @@
 #        In His High Name 
 #          My Resume
 
-
-ک 
+Hi! You can read my resume below, or you can download .pdf format (English/Persian) from above!  
 # About Me
 
 Python programmer in artificial intelligence, communication engineer, interested in machine learning specially computer vision field, also familiar with MatLab and c++.
