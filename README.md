@@ -1,7 +1,7 @@
 #        In His High Name 
 #          My Resume
 
-Hi! You can read my resume below, or you can download .pdf format (![English](Rasoul_Zamani_Resume_AI_eng.pdf) / [Persian](Rasoul_Zamani_Resume_01.pdf) !  
+Hi! You can read my resume below, or you can download .pdf format ([English](Rasoul_Zamani_Resume_AI_eng.pdf)/[Persian](Rasoul_Zamani_Resume_01.pdf) !  
 # About Me
 
 Python programmer in artificial intelligence, communication engineer, interested in machine learning specially computer vision field, also familiar with MatLab and c++.
