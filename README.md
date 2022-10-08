@@ -15,10 +15,16 @@ Iran, Isfahan
 Phone: (+98)9133837853, Email: r.zamani72@gmail.com
 
 # skills
-Python, Scikit-learn, Tensorflow, Keras, PyTorch, PyQt6, OpenCV,MatLab and C++
+Python: Scikit-learn, PyQt, OpenCV, REST API by Flask
+Frameworks: Tensorflow, Keras, Pytorch
+Other language: MatLab, C++
+Data Bases: PostgreSQL, MongoDB
 
-REST API by Flask, Linux (LPIC1), Embedded (Jetson), Git, Docker
- 
+Embedded: Jetson
+Linux (LPIC1)
+Git
+Docker
+
 Rapid Miner, Image Pro
 
 Teamwork and scrum skill
